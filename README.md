@@ -16,5 +16,4 @@ COACHTECH 教材 Tutorial 10-5「テスト ハンズオン演習」で作成し�
 - テストごとにデータベースをリセットし、毎回同じ状態でテストできるようにすること
 
 ## 動作確認
-ターミナルで sail artisan test --filter UserTest コマンドを実行し、作成したテストを走らせます。
-
+ターミナルで sail artisan test --filter UserTest コマンドを入力し、テストを実行する
